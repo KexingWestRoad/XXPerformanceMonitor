@@ -1,0 +1,6 @@
+framework module XXPerformanceMonitor {
+  umbrella header "XXPerformanceMonitor-umbrella.h"
+
+  export *
+  module * { export * }
+}

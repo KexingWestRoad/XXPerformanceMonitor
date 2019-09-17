@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/渺点/XXPerformanceMonitor'
+  s.homepage         = 'https://github.com/LDKFighter/XXPerformanceMonitor'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '渺点' => 'rocklobster.ldk@alibaba-inc.com' }
-  s.source           = { :git => 'https://github.com/渺点/XXPerformanceMonitor.git', :tag => s.version.to_s }
+  s.author           = { '廖登科' => 'liaodengke2016@gmail.com' }
+  s.source           = { :git => 'https://github.com/LDKFighter/XXPerformanceMonitor.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

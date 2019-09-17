@@ -1,0 +1,16 @@
+PODS:
+  - XXPerformanceMonitor (0.1.0)
+
+DEPENDENCIES:
+  - XXPerformanceMonitor (from `../`)
+
+EXTERNAL SOURCES:
+  XXPerformanceMonitor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XXPerformanceMonitor: b75a579a5286683dc90792e498d85ca88c89c382
+
+PODFILE CHECKSUM: 60485ad6dcbdb40eac4915c62959ec11fab539d3
+
+COCOAPODS: 1.7.2

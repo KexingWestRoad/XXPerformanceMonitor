@@ -1,0 +1,22 @@
+{
+  "name": "XXPerformanceMonitor",
+  "version": "0.1.0",
+  "summary": "A short description of XXPerformanceMonitor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/渺点/XXPerformanceMonitor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "渺点": "rocklobster.ldk@alibaba-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/渺点/XXPerformanceMonitor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XXPerformanceMonitor/Classes/**/*"
+}
